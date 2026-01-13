@@ -5,7 +5,7 @@ A collection of interactive web applications built with HTML5, CSS3, and modern 
 ## 🛠 Projects Included
 1. **To-Do List** - Manage daily tasks with add/delete functionality.
 2. **Digital Clock** - Real-time clock with a Dark/Light mode toggle.
-3. **Random Quote Generator** - Displays inspiration and allows copying to clipboard.
+3. **Random Quote Generator** - Displays inspiration and allows copying to the clipboard.
 4. **Rock, Paper, Scissors** - A classic game against a computer opponent.
 
 ## 🧰 Tech Stack
@@ -26,4 +26,4 @@ No installation required! Just follow these steps:
 * Implementing **Conditional Logic** for game mechanics.
 
 ---
-Built with ❤️ by [Your Name]
+Built with ❤️ by Priyanshu Agarwal
