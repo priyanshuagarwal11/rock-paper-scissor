@@ -26,4 +26,4 @@ No installation required! Just follow these steps:
 * Implementing **Conditional Logic** for game mechanics.
 
 ---
-Built with ❤️ by Priyanshu Agarwal
+Built with ❤️ by Priyanshu Agarwal!
